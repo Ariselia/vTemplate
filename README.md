@@ -14,3 +14,7 @@
 玩的愉快。
 
 感谢Project V的所有开发人员，以及v2ray.fun的作者雨落无声。
+
+
+### English version
+#### This is a social experiment which provides some general templates of V2Ray's JSONs.
